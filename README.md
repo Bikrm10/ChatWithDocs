@@ -20,9 +20,11 @@ pip install -r requirements.txt
 1. Run the application:
    ```sh
    python main.py
+   streamlit run new_app.py
    ```
 2. Upload a document (PNG, JPG, PDF, DOC).
 3. Query the document for specific information.
+4. Generate report such as knowledge gap , content category, sentimental score.
 
 ## Future Enhancements
 - Improve NLP capabilities for better document understanding.
