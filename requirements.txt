@@ -1,0 +1,9 @@
+lancedb
+openai
+streamlit
+jsonify
+pyarrow
+python-dotenv
+langchain_openai
+fastapi
+
